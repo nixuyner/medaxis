@@ -1,5 +1,5 @@
 /* MedAxis PWA service worker — cache-first, offline ready */
-const CACHE = "medaxis-v3";
+const CACHE = "medaxis-v2";
 const ASSETS = [
   "./",
   "./index.html",
